@@ -1,7 +1,7 @@
 Project finished on 2022/05/17
 
 Contributors : 
-  @spipanor
+  @bouederni
   @CamilleBert
 
 Language : Java
